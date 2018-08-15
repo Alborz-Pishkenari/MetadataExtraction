@@ -1,0 +1,313 @@
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/1946>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/2006>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+@prefix ns1:	<http://dbpedia.org/resource/> .
+ns1:Andalusia	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Chavela_Vargas	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Cinema_of_Spain	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Joan_Manuel_Serrat	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Juan_Belmonte	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Juan_Gabriel	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Juan_de_%C3%81valos>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Lola_Flores	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Lupita_D\u0027Alessio>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/M%C3%B3nica_Naranjo>	dbpprop:relacionados	<http://es.dbpedia.org/resource/Rocío_Jurado> ;
+	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> ;
+	dbpedia-owl:related	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Province_of_C%C3%A1diz>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Rocío_D%C3%BArcal>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Utrera	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Gay_icon	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Operaci%C3%B3n_Triunfo_(series_6)>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Procuro_Olvidarte	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:June_1	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:September_18	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Siempre_en_Domingo_(TV_series)>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Chayanne	dbpprop:artistasRelacionados	<http://es.dbpedia.org/resource/Rocío_Jurado> ;
+	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> ;
+	dbpedia-owl:related	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Franco_De_Vita	dbpprop:artistasRelacionados	<http://es.dbpedia.org/resource/Rocío_Jurado> ;
+	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> ;
+	dbpedia-owl:related	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Isabel_Pantoja	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/J%C3%BAnior_(Filipino_singer)>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Jos%C3%A9_Luis_Perales>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Karina_(Spanish_singer)>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Mal%C3%BA>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Manolo_Sanl%C3%BAcar>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Mar%C3%ADa_Dolores_Pradera>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Mar%C3%ADa_Teresa_Campos>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Melody_(Spanish_singer)>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Valeria_Lynch	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Raphael_(singer)>	dbpprop:artistasRelacionados	<http://es.dbpedia.org/resource/Rocío_Jurado> ;
+	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> ;
+	dbpedia-owl:related	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Rafael_Riqueni	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Rocio_Colette_Acu%C3%B1a_Calzada>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:La_Moraleja	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Piel	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/S%C3%BAper_S%C3%A1bado_Sensacional>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Bambera	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Carlos_Jean	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/El_Amor_brujo_(1986_film)>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Falete	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Jos%C3%A9_Ortega_Cano>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> ;
+	dbpedia-owl:spouse	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Josefina_Molina	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Juanita_Reina	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Lolita_Flores	dbpprop:artistasRelacionados	<http://es.dbpedia.org/resource/Rocío_Jurado> ;
+	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> ;
+	dbpedia-owl:related	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Manolo_Escobar	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Ni%C3%B1o_Ricardo>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Operaci%C3%B3n_Triunfo_(series_5)>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Palacio_de_Deportes_de_la_Comunidad_de_Madrid	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Pedro_Carrasco	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Ra%C3%BAl_Velasco>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Rocío_Carrasco>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Lila_Morillo	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:No_quiero_escuchar	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Paco_Cepero	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Juan_Manuel_Ca%C3%B1izares>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Los_Guerrilleros_(1963_film)>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> ;
+	dbpedia-owl:starring	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Ana_Gabriel	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Bebu_Silvetti	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Campanilleros	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Copla_(music)>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/El_Espa%C3%B1ol_de_la_Historia>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Los_del_R%C3%ADo>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Music_of_Andalusia	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Rocío>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Sony_Music_Entertainment	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Diana_Navarro	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Julio_Iglesias,_Sr.>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Survivor_Spain	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Andr%C3%A9s_Pajares>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:History_of_the_Eurovision_Song_Contest	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Latin_ballad	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Manuel_Alejandro	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Manuel_Pareja_Obreg%C3%B3n>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Mar%C3%ADa_del_Monte>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Myriam_Montemayor_Cruz	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Pastora_Soler	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Cantar%C3%A9,_cantar%C3%A1s>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Jos%C3%A9_Luis_Rodr%C3%ADguez_(singer)>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Rosa_L%C3%B3pez>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Surprise,_Surprise>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:El_Show_de_las_Estrellas	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/%C3%89rika_Alcocer_Luna>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Miss_Venezuela_1990	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:San_Silvestre_Vallecana	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Valdemoro	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Carnival_of_C%C3%A1diz>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Chipiona	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:Ponferrada	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+<http://dbpedia.org/resource/Televisi%C3%B3n_Espa%C3%B1ola>	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+ns1:La_Flor_de_la_Canela	dbpedia-owl:wikiPageWikiLink	<http://es.dbpedia.org/resource/Rocío_Jurado> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://es.dbpedia.org/resource/Rocío_Jurado>	rdf:type	owl:Thing ,
+		dbpedia-owl:MusicalArtist ,
+		dbpedia-owl:Person .
+@prefix ns5:	<http://wikidata.dbpedia.org/resource/> .
+<http://es.dbpedia.org/resource/Rocío_Jurado>	rdf:type	ns5:Q215627 ,
+		dbpedia-owl:Agent .
+@prefix ns6:	<http://schema.org/> .
+<http://es.dbpedia.org/resource/Rocío_Jurado>	rdf:type	ns6:MusicGroup ,
+		ns6:Person ,
+		dbpedia-owl:Artist .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://es.dbpedia.org/resource/Rocío_Jurado>	rdf:type	foaf:Person .
+@prefix ns8:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://es.dbpedia.org/resource/Rocío_Jurado>	rdf:type	ns8:Agent ,
+		ns5:Q5 ,
+		ns8:NaturalPerson .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://es.dbpedia.org/resource/Rocío_Jurado>	rdfs:label	"Roc\u00EDo Jurado"@es ;
+	rdfs:comment	"Mar\u00EDa del Roc\u00EDo Trinidad Mohedano Jurado, conocida art\u00EDsticamente como Roc\u00EDo Jurado (Chipiona, C\u00E1diz, Espa\u00F1a; 18 de septiembre de 1944 - Alcobendas, Madrid, Espa\u00F1a; 1 de junio de 2006) fue una cantante espa\u00F1ola de reconocida fama, que se especializ\u00F3 en g\u00E9neros musicales genuinamente espa\u00F1oles como la copla y el flamenco, as\u00ED como en la balada rom\u00E1ntica, faceta con la que alcanz\u00F3 relevancia en Espa\u00F1a y Latinoam\u00E9rica."@es ;
+	owl:sameAs	<http://dbpedia.org/resource/Rocío_Jurado> .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix ns11:	<http://dbpedia.org/resource/Category:> .
+<http://es.dbpedia.org/resource/Rocío_Jurado>	dcterms:subject	ns11:Deaths_from_pancreatic_cancer ,
+		ns11:Spanish_female_singers ,
+		ns11:Spanish_film_actors ,
+		ns11:Andalusian_actors ,
+		ns11:Andalusian_singers ,
+		<http://dbpedia.org/resource/Category:20th-century_women> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Rociomohedanojurado1.jpg> ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Rociomohedanojurado1.jpg?width=300> ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.elpais.es/comunes/2006/rocio_jurado/> ,
+		<http://elpais.com/diario/2010/08/16/radiotv/1281909602_850215.html> ,
+		<http://www.rociojuradofanclub.com> .
+@prefix ns12:	<http://www.billboard.com/articles/news/58266/> .
+<http://es.dbpedia.org/resource/Rocío_Jurado>	dbpedia-owl:wikiPageExternalLink	ns12:spanish-singeractress-rocio-jurado-dies ,
+		<http://www.elmundo.es/documentos/2006/06/rocio_jurado/> ,
+		<http://www.20minutos.es/especial/46> ;
+	dbpprop:alias	"La Chipionera."@es ,
+		"La M\u00E1s Grande."@es ;
+	dbpprop:artistasRelacionados	ns1:Lola_Flores ,
+		ns1:Juanita_Reina ,
+		ns1:Chayanne ,
+		<http://dbpedia.org/resource/Raphael_(singer)> ,
+		<http://dbpedia.org/resource/Camar%C3%B3n_de_la_Isla> ,
+		<http://dbpedia.org/resource/Rocío_D%C3%BArcal> ,
+		ns1:Lolita_Flores ,
+		<http://dbpedia.org/resource/M%C3%B3nica_Naranjo> ,
+		ns1:Paulina_Rubio ;
+	dbpprop:cónyuge	"Jos\u00E9 Ortega Cano"@es ,
+		ns1:Pedro_Carrasco ;
+	dbpprop:discográfica	ns1:EMI ,
+		ns1:Sony_Music_Entertainment ;
+	dbpprop:fondo	"solista"@es ;
+	dbpprop:hijos	"Gloria Camila Ortega Mohedano"@es ,
+		"Jos\u00E9 Fernando Ortega Mohedano"@es ,
+		<http://dbpedia.org/resource/Rocío_Carrasco> ;
+	dbpprop:imagen	"Rociomohedanojurado1.jpg"@es ;
+	dbpprop:imdb	432834 ;
+	dbpprop:instrumento	ns1:Voice_type ;
+	dbpprop:muerte	"Alcobendas,"@es .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://es.dbpedia.org/resource/Rocío_Jurado>	dbpprop:muerte	"--06-01+01:00"^^xsd:gMonthDay ;
+	dbpprop:nacimiento	"--09-18+01:00"^^xsd:gMonthDay ;
+	dbpprop:nombre	"Roc\u00EDo Jurado"@es ;
+	dbpprop:nombreDeNacimiento	"Mar\u00EDa del Roc\u00EDo Trinidad Mohedano Jurado"@es ;
+	dbpprop:ocupación	ns1:Acting ;
+	dbpprop:subtítulo	"Roc\u00EDo Jurado recibiendo el premio Yerbabuena de Plata en 2005."@es ;
+	dbpprop:tiempo	1960 ;
+	dbpedia-owl:wikiPageWikiLink	<http://dbpedia.org/resource/La_Ni%C3%B1a_de_los_Peines> ,
+		ns1:Ronald_Reagan ,
+		ns1:Lola_Flores ,
+		<http://dbpedia.org/resource/1960> ,
+		<http://dbpedia.org/resource/Peineta_(comb)> ,
+		<http://dbpedia.org/resource/Jos%C3%A9_Luis_Rodr%C3%ADguez_(singer)> ,
+		<http://dbpedia.org/resource/Paco_de_Luc%C3%ADa> ,
+		<http://dbpedia.org/resource/1958> ,
+		ns1:Alcobendas ,
+		<http://dbpedia.org/resource/Curro_Jim%C3%A9nez> ,
+		ns1:Community_of_Madrid ,
+		ns11:Spanish_film_actors ,
+		<http://dbpedia.org/resource/Manolo_Sanl%C3%BAcar> ,
+		ns11:Spanish_female_singers ,
+		ns1:David_Bisbal ,
+		<http://dbpedia.org/resource/1944> ,
+		ns1:Music ,
+		ns1:Chayanne ,
+		ns1:Flamenco ,
+		ns1:Mausoleum ,
+		ns1:Acting ,
+		ns1:Las_Cabezas_de_San_Juan ,
+		ns1:Madrid ,
+		ns1:Guitar ,
+		ns1:September_17 ,
+		<http://dbpedia.org/resource/El_Pa%C3%ADs> ,
+		ns1:September_18 ,
+		ns1:Manolo_Caracol ,
+		ns1:Manuel_Alejandro ,
+		ns1:White_House ,
+		ns1:Hispanic_America ,
+		<http://dbpedia.org/resource/Copla_(music)> ,
+		ns1:Soft_drink ,
+		ns1:Europe ,
+		<http://dbpedia.org/resource/Jos%C3%A9_Ortega_Cano> ,
+		ns1:Cristina_Hoyos ,
+		ns1:Torero ,
+		ns1:Tomatito ,
+		ns1:Texas ,
+		ns1:Spain ,
+		ns1:Americas ,
+		ns1:Annulment ,
+		ns1:Lolita_Flores ,
+		ns1:Sony_Music_Entertainment ,
+		ns1:Traje_de_flamenca ,
+		ns1:Music_of_Spain ,
+		ns1:Carlos_Saura ,
+		ns1:Intensive_care_unit ,
+		<http://dbpedia.org/resource/Rocío_Carrasco> ,
+		<http://dbpedia.org/resource/Wake_(ceremony)> ,
+		ns1:February_17 ,
+		ns11:Deaths_from_pancreatic_cancer ,
+		ns1:Tablao ,
+		ns1:Boxing ,
+		<http://dbpedia.org/resource/Los_Guerrilleros_(1963_film)> ,
+		ns1:Houston ,
+		<http://dbpedia.org/resource/Buler%C3%ADas> ,
+		<http://dbpedia.org/resource/Mal%C3%BA> ,
+		ns1:Tiento ,
+		<http://dbpedia.org/resource/Raphael_(singer)> ,
+		<http://dbpedia.org/resource/Rocío_D%C3%BArcal> ,
+		<http://dbpedia.org/resource/Televisi%C3%B3n_Espa%C3%B1ola> ,
+		<http://dbpedia.org/resource/2000> ,
+		ns1:Cancer ,
+		ns1:Ana_Gabriel ,
+		ns1:May_21 ,
+		ns1:EMI ,
+		<http://dbpedia.org/resource/M%C3%B3nica_Naranjo> ,
+		<http://dbpedia.org/resource/Camar%C3%B3n_de_la_Isla> ,
+		<http://dbpedia.org/resource/1999> ,
+		ns1:Gossip_magazine ,
+		<http://dbpedia.org/resource/Alegr%C3%ADas> ,
+		<http://dbpedia.org/resource/M%C3%A1laga> ,
+		<http://dbpedia.org/resource/1998> ,
+		ns1:Pancreatic_cancer ,
+		<http://dbpedia.org/resource/Category:20th-century_women> ,
+		<http://dbpedia.org/resource/1995> ,
+		ns1:Cordwainer ,
+		<http://dbpedia.org/resource/1992> ,
+		ns1:June_2 ,
+		ns11:Andalusian_singers ,
+		ns1:Ballad ,
+		ns1:Paulina_Rubio ,
+		ns1:June_1 ,
+		ns1:New_York_City ,
+		ns11:Andalusian_actors ,
+		<http://dbpedia.org/resource/1989> ,
+		ns1:Colombia ,
+		<http://dbpedia.org/resource/Surprise,_Surprise> ,
+		ns1:Television ,
+		<http://dbpedia.org/resource/1986> ,
+		ns1:Voice_type ,
+		<http://dbpedia.org/resource/2006> ,
+		ns1:Province_of_Seville ,
+		<http://dbpedia.org/resource/1982> ,
+		ns1:Lying_in_repose ,
+		<http://dbpedia.org/resource/2005> ,
+		<http://dbpedia.org/resource/Billboard_(magazine)> ,
+		ns1:Folklore ,
+		<http://dbpedia.org/resource/1976> ,
+		ns1:Latin_ballad ,
+		<http://dbpedia.org/resource/2004> ,
+		ns1:President_of_the_United_States ,
+		ns1:Pedro_Carrasco ,
+		<http://dbpedia.org/resource/Province_of_C%C3%A1diz> ,
+		ns1:Chipiona ,
+		ns1:Stocking ,
+		ns1:Concha_Piquer ,
+		ns1:Juanita_Reina ,
+		ns1:Soundtrack ;
+	dbpedia-owl:activeYearsEndYear	"2006+01:00"^^xsd:gYear ;
+	dbpedia-owl:activeYearsStartYear	"1960+01:00"^^xsd:gYear ;
+	dbpedia-owl:alias	"La Chipionera." ,
+		"La M\u00E1s Grande." ;
+	dbpedia-owl:background	"solista" ;
+	dbpedia-owl:instrument	ns1:Voice_type ;
+	dbpedia-owl:occupation	ns1:Acting ;
+	dbpedia-owl:recordLabel	ns1:EMI ,
+		ns1:Sony_Music_Entertainment ;
+	dbpedia-owl:related	ns1:Lola_Flores ,
+		ns1:Lolita_Flores ,
+		ns1:Juanita_Reina ,
+		<http://dbpedia.org/resource/Camar%C3%B3n_de_la_Isla> ,
+		ns1:Chayanne ,
+		ns1:Paulina_Rubio ,
+		<http://dbpedia.org/resource/Raphael_(singer)> ,
+		<http://dbpedia.org/resource/M%C3%B3nica_Naranjo> ,
+		<http://dbpedia.org/resource/Rocío_D%C3%BArcal> ;
+	dbpedia-owl:spouse	ns1:Pedro_Carrasco ,
+		<http://dbpedia.org/resource/Jos%C3%A9_Ortega_Cano> ;
+	foaf:givenName	"Mar\u00EDa del Roc\u00EDo Trinidad Mohedano Jurado"@es ;
+	foaf:name	"Roc\u00EDo Jurado"@es ;
+	dbpedia-owl:abstract	"Mar\u00EDa del Roc\u00EDo Trinidad Mohedano Jurado, conocida art\u00EDsticamente como Roc\u00EDo Jurado (Chipiona, C\u00E1diz, Espa\u00F1a; 18 de septiembre de 1944 - Alcobendas, Madrid, Espa\u00F1a; 1 de junio de 2006) fue una cantante espa\u00F1ola de reconocida fama, que se especializ\u00F3 en g\u00E9neros musicales genuinamente espa\u00F1oles como la copla y el flamenco, as\u00ED como en la balada rom\u00E1ntica, faceta con la que alcanz\u00F3 relevancia en Espa\u00F1a y Latinoam\u00E9rica. En el a\u00F1o 2000 obtuvo el premio \"La Voz del Milenio\" a la Mejor Voz Femenina del Siglo XX. Ha vendido m\u00E1s de 30 millones de discos."@es .
+@prefix dbpedia:	<http://es.dbpedia.org/resource/> .
+dbpedia:Rocío_Jurado	owl:sameAs	<http://es.dbpedia.org/resource/Rocío_Jurado> .
